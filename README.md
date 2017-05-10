@@ -1,2 +1,2 @@
 # jackykrabs.github.io
-My Personal Website
+My personal website to demonstrate my projects and portfolio
