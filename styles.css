@@ -29,8 +29,16 @@ p {
 	margin:auto;
 	display:block;
 }
-
+ #goosePic {
+	 display:block;
+	 margin:auto;
+	 width: 15%;
+ }
+ 
 table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
+	background-color: white;
+	border-collapse: collapse;
+	border-style: solid;
+    border-width: 5px;
+	border-color: black;
 }
