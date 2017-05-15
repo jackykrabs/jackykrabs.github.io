@@ -2,6 +2,9 @@ body {
 	background-color: lightblue;
 }
 
+address {
+	text-align: center;
+}
 h1 {
 	color: black;
 	text-align: center;
